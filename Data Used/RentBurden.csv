@@ -1,0 +1,56 @@
+﻿rent_burden_med,Median rent burden,Borough,Sub-Borough Area,2000,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018
+short_name,long_name,Queens,Astoria,0.252972973,0.323,0.296,0.288,0.278,0.295,0.315,0.315,0.296,0.298,0.306,0.295,0.286,0.275,0.283
+rent_burden_med,Median rent burden,Brooklyn,Bay Ridge,0.23592,0.275,0.285,0.299,0.286,0.318,0.325,0.313,0.322,0.297,0.322,0.289,0.315,0.31,0.299
+rent_burden_med,Median rent burden,Queens,Bayside/Little Neck,0.2484,0.331,0.285,0.27,0.324,0.321,0.3,0.34,0.365,0.313,0.291,0.281,0.318,0.39,0.32
+rent_burden_med,Median rent burden,Brooklyn,Bedford Stuyvesant,0.292537313,0.307,0.353,0.316,0.314,0.336,0.338,0.344,0.325,0.343,0.337,0.325,0.32,0.306,0.329
+rent_burden_med,Median rent burden,Brooklyn,Bensonhurst,0.290837438,0.32,0.376,0.349,0.336,0.319,0.364,0.339,0.3,0.331,0.356,0.331,0.354,0.363,0.359
+rent_burden_med,Median rent burden,Brooklyn,Borough Park,0.3255,0.369,0.341,0.37,0.395,0.383,0.446,0.5,0.422,0.467,0.435,0.439,0.48,0.439,0.422
+rent_burden_med,Median rent burden,Brooklyn,Brooklyn Heights/Fort Greene,0.237773052,0.272,0.275,0.249,0.255,0.255,0.265,0.29,0.272,0.264,0.263,0.263,0.262,0.259,0.274
+rent_burden_med,Median rent burden,Brooklyn,Brownsville/Ocean Hill,0.3,0.35,0.334,0.319,0.335,0.363,0.337,0.339,0.376,0.348,0.399,0.344,0.381,0.477,0.366
+rent_burden_med,Median rent burden,Brooklyn,Bushwick,0.316,0.333,0.394,0.324,0.347,0.349,0.333,0.363,0.351,0.327,0.344,0.334,0.337,0.33,0.33
+rent_burden_med,Median rent burden,Manhattan,Central Harlem,0.266666667,0.307,0.301,0.297,0.296,0.295,0.295,0.295,0.309,0.319,0.298,0.282,0.295,0.287,0.298
+rent_burden_med,Median rent burden,Manhattan,Chelsea/Clinton/Midtown,0.242338983,0.265,0.253,0.252,0.259,0.258,0.259,0.284,0.276,0.273,0.259,0.257,0.261,0.255,0.258
+rent_burden_med,Median rent burden,Brooklyn,Coney Island,0.295,0.298,0.321,0.315,0.312,0.321,0.352,0.363,0.327,0.339,0.342,0.327,0.33,0.346,0.324
+rent_burden_med,Median rent burden,Brooklyn,East Flatbush,0.289263158,0.304,0.331,0.328,0.335,0.331,0.346,0.354,0.331,0.382,0.364,0.327,0.334,0.364,0.319
+rent_burden_med,Median rent burden,Manhattan,East Harlem,0.26746988,0.302,0.271,0.263,0.27,0.287,0.307,0.302,0.301,0.311,0.309,0.295,0.287,0.295,0.322
+rent_burden_med,Median rent burden,Brooklyn,East New York/Starrett City,0.283969466,0.295,0.34,0.34,0.336,0.349,0.333,0.344,0.331,0.327,0.366,0.34,0.331,0.367,0.357
+rent_burden_med,Median rent burden,Queens,Elmhurst/Corona,0.278571429,0.337,0.346,0.33,0.346,0.353,0.399,0.359,0.383,0.369,0.395,0.406,0.402,0.338,0.371
+rent_burden_med,Median rent burden,Brooklyn,Flatbush,0.271610596,0.348,0.317,0.331,0.328,0.332,0.339,0.359,0.353,0.359,0.34,0.349,0.352,0.344,0.311
+rent_burden_med,Median rent burden,Brooklyn,Flatlands/Canarsie,0.251612903,0.292,0.288,0.295,0.289,0.29,0.274,0.335,0.326,0.308,0.333,0.311,0.3,0.297,0.297
+rent_burden_med,Median rent burden,Queens,Flushing/Whitestone,0.26625,0.35,0.341,0.333,0.349,0.337,0.343,0.388,0.36,0.373,0.394,0.427,0.435,0.418,0.426
+rent_burden_med,Median rent burden,Manhattan,Greenwich Village/Financial District,0.23171831,0.254,0.264,0.254,0.246,0.256,0.249,0.244,0.266,0.241,0.26,0.252,0.236,0.23,0.207
+rent_burden_med,Median rent burden,Bronx,Highbridge/South Concourse,0.288,0.372,0.358,0.355,0.377,0.329,0.377,0.435,0.346,0.422,0.397,0.399,0.357,0.389,0.365
+rent_burden_med,Median rent burden,Queens,Hillcrest/Fresh Meadows,0.236111111,0.306,0.288,0.29,0.293,0.286,0.298,0.323,0.319,0.372,0.355,0.298,0.333,0.333,0.34
+rent_burden_med,Median rent burden,Queens,Jackson Heights,0.272,0.34,0.321,0.347,0.342,0.319,0.369,0.376,0.375,0.371,0.371,0.363,0.387,0.367,0.354
+rent_burden_med,Median rent burden,Queens,Jamaica,0.268173913,0.309,0.33,0.341,0.299,0.314,0.348,0.373,0.377,0.348,0.374,0.324,0.327,0.341,0.328
+rent_burden_med,Median rent burden,Bronx,Kingsbridge Heights/Mosholu,0.295958549,0.334,0.373,0.369,0.375,0.361,0.417,0.399,0.402,0.4,0.367,0.391,0.373,0.41,0.379
+rent_burden_med,Median rent burden,Manhattan,Lower East Side/Chinatown,0.26625,0.285,0.285,0.289,0.301,0.306,0.3,0.298,0.309,0.296,0.29,0.311,0.303,0.313,0.306
+rent_burden_med,Median rent burden,Staten Island,Mid-Island,0.238414097,0.319,0.325,0.323,0.315,0.371,0.309,0.284,0.344,0.343,0.329,0.324,0.337,0.292,0.285
+rent_burden_med,Median rent burden,Queens,Middle Village/Ridgewood,0.247058824,0.322,0.302,0.304,0.285,0.315,0.322,0.329,0.325,0.314,0.29,0.31,0.272,0.285,0.293
+rent_burden_med,Median rent burden,Manhattan,Morningside Heights/Hamilton Heights,0.268623853,0.302,0.32,0.28,0.325,0.311,0.333,0.321,0.315,0.315,0.32,0.338,0.326,0.326,0.32
+rent_burden_med,Median rent burden,Bronx,Morrisania/Belmont,0.291958763,0.354,0.366,0.339,0.349,0.371,0.354,0.377,0.392,0.344,0.372,0.358,0.356,0.348,0.374
+rent_burden_med,Median rent burden,Bronx,Mott Haven/Hunts Point,0.278571429,0.349,0.328,0.325,0.333,0.326,0.343,0.346,0.377,0.333,0.349,0.333,0.348,0.38,0.379
+rent_burden_med,Median rent burden,Brooklyn,North Crown Heights/Prospect Heights,0.26,0.341,0.304,0.324,0.333,0.292,0.321,0.327,0.307,0.335,0.319,0.312,0.317,0.303,0.304
+rent_burden_med,Median rent burden,Staten Island,North Shore,0.247328244,0.372,0.303,0.315,0.335,0.357,0.362,0.324,0.352,0.322,0.367,0.344,0.365,0.366,0.323
+rent_burden_med,Median rent burden,Queens,Ozone Park/Woodhaven,0.271952663,0.333,0.368,0.318,0.335,0.323,0.319,0.349,0.344,0.317,0.337,0.354,0.351,0.308,0.337
+rent_burden_med,Median rent burden,Brooklyn,Park Slope/Carroll Gardens,0.236966825,0.272,0.244,0.261,0.272,0.255,0.279,0.264,0.262,0.252,0.242,0.249,0.248,0.235,0.259
+rent_burden_med,Median rent burden,Bronx,Pelham Parkway,0.264782609,0.305,0.284,0.301,0.303,0.29,0.315,0.356,0.344,0.32,0.332,0.357,0.326,0.376,0.321
+rent_burden_med,Median rent burden,Queens,Queens Village,0.233419355,0.282,0.298,0.271,0.282,0.29,0.353,0.325,0.325,0.313,0.335,0.296,0.316,0.29,0.288
+rent_burden_med,Median rent burden,Queens,Rego Park/Forest Hills,0.247773279,0.322,0.289,0.297,0.277,0.299,0.362,0.288,0.319,0.332,0.317,0.31,0.324,0.296,0.293
+rent_burden_med,Median rent burden,Bronx,Riverdale/Kingsbridge,0.237804878,0.282,0.289,0.277,0.262,0.278,0.303,0.315,0.319,0.299,0.335,0.295,0.349,0.34,0.353
+rent_burden_med,Median rent burden,Queens,Rockaways,0.253584906,0.287,0.297,0.315,0.29,0.302,0.325,0.303,0.313,0.349,0.333,0.315,0.328,0.298,0.276
+rent_burden_med,Median rent burden,Brooklyn,Sheepshead Bay/Gravesend,0.278961039,0.35,0.359,0.344,0.322,0.314,0.318,0.362,0.327,0.353,0.357,0.33,0.332,0.337,0.333
+rent_burden_med,Median rent burden,Bronx,Soundview/Parkchester,0.264,0.309,0.3,0.312,0.291,0.315,0.312,0.334,0.342,0.327,0.359,0.35,0.34,0.341,0.343
+rent_burden_med,Median rent burden,Brooklyn,South Crown Heights,0.28033195,0.295,0.322,0.296,0.368,0.334,0.346,0.351,0.371,0.318,0.377,0.346,0.319,0.338,0.29
+rent_burden_med,Median rent burden,Bronx,South Ozone Park/Howard Beach,0.26112,0.367,0.356,0.345,0.301,0.302,0.414,0.378,0.362,0.351,0.412,0.306,0.371,0.333,0.325
+rent_burden_med,Median rent burden,Staten Island,South Shore,0.2424,0.353,0.3,0.331,0.26,0.272,0.328,0.244,0.246,0.307,0.352,0.262,0.25,0.329,0.271
+rent_burden_med,Median rent burden,Manhattan,Stuyvesant Town/Turtle Bay,0.224824903,0.251,0.254,0.24,0.255,0.255,0.273,0.267,0.265,0.251,0.276,0.289,0.277,0.267,0.257
+rent_burden_med,Median rent burden,Queens,Sunnyside/Woodside,0.252,0.306,0.301,0.283,0.286,0.28,0.335,0.341,0.342,0.296,0.344,0.315,0.312,0.31,0.301
+rent_burden_med,Median rent burden,Brooklyn,Sunset Park,0.275,0.353,0.286,0.352,0.319,0.362,0.336,0.333,0.376,0.358,0.382,0.368,0.333,0.319,0.319
+rent_burden_med,Median rent burden,Bronx,Throgs Neck/Co-op City,0.214865736,0.3,0.244,0.237,0.262,0.286,0.272,0.312,0.306,0.288,0.274,0.319,0.296,0.289,0.291
+rent_burden_med,Median rent burden,Bronx,University Heights/Fordham,0.314285714,0.392,0.396,0.373,0.363,0.388,0.38,0.376,0.452,0.425,0.456,0.42,0.392,0.417,0.382
+rent_burden_med,Median rent burden,Manhattan,Upper East Side,0.225882353,0.282,0.251,0.236,0.244,0.26,0.27,0.267,0.25,0.28,0.254,0.287,0.271,0.248,0.26
+rent_burden_med,Median rent burden,Manhattan,Upper West Side,0.219518797,0.244,0.246,0.244,0.234,0.236,0.266,0.27,0.271,0.255,0.274,0.25,0.26,0.222,0.234
+rent_burden_med,Median rent burden,Manhattan,Washington Heights/Inwood,0.260869565,0.314,0.324,0.31,0.311,0.327,0.301,0.325,0.337,0.348,0.328,0.325,0.301,0.3,0.31
+rent_burden_med,Median rent burden,Bronx,Williamsbridge/Baychester,0.27355102,0.334,0.298,0.282,0.305,0.318,0.338,0.38,0.34,0.345,0.399,0.35,0.348,0.347,0.374
+rent_burden_med,Median rent burden,Brooklyn,Williamsburg/Greenpoint,0.272727273,0.326,0.313,0.307,0.303,0.319,0.312,0.305,0.296,0.294,0.319,0.285,0.301,0.298,0.282
